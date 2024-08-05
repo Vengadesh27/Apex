@@ -20,7 +20,7 @@ To get started with the Apex Framework, follow these steps:
    Activate the virtual environment:
    - **On Windows**:
      ```bash
-     myenv\Scripts\activate
+     myenv/Scripts/activate
      ```
    - **On macOS/Linux**:
      ```bash
