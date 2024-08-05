@@ -1,4 +1,5 @@
 ---
+
 # Apex Framework
 
 **Apex Framework** is a powerful and versatile Python-based web framework designed to simplify and accelerate the development of modern web applications. Built with flexibility and ease of use in mind, Apex provides a robust set of tools and features that enable developers to create scalable, maintainable, and high-performance web solutions.
@@ -20,7 +21,7 @@ To get started with the Apex Framework, follow these steps:
    Activate the virtual environment:
    - **On Windows**:
      ```bash
-     myenv/Scripts/activate
+     myenv\Scripts\activate
      ```
    - **On macOS/Linux**:
      ```bash
@@ -55,4 +56,3 @@ To get started with the Apex Framework, follow these steps:
 Apex Framework is ideal for developers looking for a Python-based solution that combines simplicity with power. Its modular design, easy-to-use CLI, and comprehensive documentation make it a great choice for both beginners and experienced developers. Whether you're building a small web app or a complex enterprise solution, Apex provides the tools and flexibility needed to create robust and maintainable applications.
 
 ---
-
