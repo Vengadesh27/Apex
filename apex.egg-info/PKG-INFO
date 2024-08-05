@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: apex
+Version: 0.1.0
+Summary: A web frame work for creating faster web applications
+Home-page: https://github.com/Vengadesh27/Apex.git
+Author: Vengadesh
+Author-email: m.vengadesh2019@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: click
+
+# Apex Project
+
+A CLI tool for creating and managing projects.
+
+## Installation
+
+You can install the package via pip:
+
+```bash
+pip install apex_project
